@@ -23,11 +23,11 @@ JustGage = function(config) {
     
     // title : string
     // gauge title 
-    title : (config.title) ? config.title : "Title",
+    //title : (config.title) ? config.title : "Title",
     
     // titleFontColor : string
     // color of gauge title 
-    titleFontColor : (config.titleFontColor) ? config.titleFontColor : "#999999",
+    //titleFontColor : (config.titleFontColor) ? config.titleFontColor : "#999999",
     
     // value : int
     // value gauge is showing 
